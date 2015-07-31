@@ -1,3 +1,7 @@
+/**
+ * 投票地址：http://weixin.g-club.com/QieMap/Share.aspx?code=0018f1c0a3be5c7f243c4f3cf93c170I&state=18129
+ */
+
 var randomIp = function (len) {
     len = len || 4;
     var ip = '';

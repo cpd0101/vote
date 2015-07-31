@@ -1,3 +1,7 @@
+/**
+ * 投票地址：http://gameadj.gotoip3.com/WebSite/HupoTicket.aspx?openID=o7JPwjpbMj1MumAcPqDTLYRv8WpU
+ */
+
 var randomIp = function (len) {
     len = len || 4;
     var ip = '';
